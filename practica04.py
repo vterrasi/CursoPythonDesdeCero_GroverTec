@@ -10,4 +10,5 @@ for n in range(0, 6):
 
     numeros_loteria.append(numero)
 
+numeros_loteria.sort()
 print("Números de la lotería:", numeros_loteria)
