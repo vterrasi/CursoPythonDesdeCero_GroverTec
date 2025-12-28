@@ -16,3 +16,6 @@ total_a_pagar = total + (total * 0.15)
 print('Descuento: ', descuento)
 print('Total: ', total)
 print('Total a pagar: ', total_a_pagar)
+
+
+#ya quiero subir este archivo a github
