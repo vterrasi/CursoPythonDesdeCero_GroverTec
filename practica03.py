@@ -15,5 +15,5 @@ for n in numeros:
 
     print(f'{n} x {aleatorio} = {result}')
 
-print("Números pares resultantes:", pares)
-print("Números impares resultantes:", impares)  
+print("Lista de pares:", pares)
+print("Lista de impares:", impares)  
